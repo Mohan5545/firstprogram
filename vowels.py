@@ -4,6 +4,6 @@ word=str(input())
 if word in set1:
   print("Vowel")
 elif word in set2:
-  print("Consonent")
+  print("Consonant")
 else:
   print("invalid")
